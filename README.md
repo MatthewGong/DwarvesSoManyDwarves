@@ -1,4 +1,3 @@
-
 The first 5 iterations the sequence are:  
 n | x(n)  
 0 | 40  
